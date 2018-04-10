@@ -4,7 +4,8 @@ Faster automated scan for ctf
 This is a very simple quick and dirty script to automate and scan targets for ctf
 
 
-To do:
+#To do:
 implement Gobuster for web discovery.
 
-Based one masscan and Nmap.
+#Based: on 
+masscan and Nmap.
