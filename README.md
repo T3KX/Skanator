@@ -1,2 +1,4 @@
 # Skanator
 Faster automated scan for ctf
+
+This is a very simple quick and dirty script to automate and scan targets for ctf
